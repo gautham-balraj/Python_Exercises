@@ -1,5 +1,7 @@
 # python-questions
 intermediate level questions related to basic python and EDA
+
+
 MODULE I Introduction to Python                                                                                                   5
 
 Introduction to Python, Data Types, Looping and conditional statements, Data structures of List-Tuple-Dictionary-String, OOPS-functions-class and objects-modules-inheritance-encapsulation-exception handling -python and Database connectivity
